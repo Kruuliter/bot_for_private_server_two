@@ -1,3 +1,3 @@
 # bot_for_private_server_two
  
-прежде, чем запускать данный проект, нужно создать бота и добавить его в дискорд сервер,[ указано здесь](https://appmaster.io/ru/blog/bot-discord-kak-sozdat-i-dobavit-na-server). Затем отредактируйте файл [config.ini](https://github.com/Kruuliter/bot_for_private_server_two/data/Config/config.ini), добавив токен, имя и id бота.
+прежде, чем запускать данный проект, нужно создать бота и добавить его в дискорд сервер,[ указано здесь](https://appmaster.io/ru/blog/bot-discord-kak-sozdat-i-dobavit-na-server). Затем отредактируйте файл [config.ini](https://github.com/Kruuliter/bot_for_private_server_two/blob/main/data/Config/config.ini), добавив токен, имя и id бота.
